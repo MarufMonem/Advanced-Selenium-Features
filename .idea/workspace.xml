@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a95a7e1-21a5-491f-b0a1-e914bb7960d0" name="Changes" comment="Clicking on the file upload button using selenium">
-      <change beforePath="$PROJECT_DIR$/src/test/java/uploadItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uploadItems.java" afterDir="false" />
+    <list default="true" id="5a95a7e1-21a5-491f-b0a1-e914bb7960d0" name="Changes" comment="Auto IT script and executable">
+      <change afterPath="$PROJECT_DIR$/src/test/java/downloadingFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670214762842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Running the AutoIT script to upload the file">
+      <created>1670215625606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670215625606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Auto IT script and executable">
+      <created>1670215646614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670215646614</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +106,8 @@
     <MESSAGE value="This project would contain different advanced selenium features." />
     <MESSAGE value="Basic authentication (JS)" />
     <MESSAGE value="Clicking on the file upload button using selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clicking on the file upload button using selenium" />
+    <MESSAGE value="Running the AutoIT script to upload the file" />
+    <MESSAGE value="Auto IT script and executable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auto IT script and executable" />
   </component>
 </project>
